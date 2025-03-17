@@ -5,4 +5,5 @@
 5. [Braind Amanor](https://fonter.am/fonts/download/braind-amanor)
 6. [Braind Zbans](https://fonter.am/fonts/download/braind-zbans)
 7. [Kelvinch](https://fonter.am/fonts/download/kelvinch)
+8. [Hindsight-unicode](https://fonter.am/fonts/download/hindsight-unicode)
 https://fonter.am/en/fonts?category%5B0%5D=1
