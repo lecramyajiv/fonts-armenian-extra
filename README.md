@@ -16,3 +16,6 @@
 14. Galiver Sans
 15. Galiver Sans obliques
 16. Nikkyou Sans
+17. Braind Yeravan
+18. Braind Republic
+19. Braind Gyumri

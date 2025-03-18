@@ -12,5 +12,7 @@
 12. [Galiver Sans](https://fonter.am/fonts/download/galiver-sans)
 13. [Galiver Sans Obliques](https://fonter.am/fonts/download/galiver-sans-obliques)
 14. [NikkyouSans](https://fonter.am/fonts/download/nikkyou-sans)
-
+15. [Braind Yeravan](https://fonter.am/fonts/download/braind-yerevan)
+16. [Braind Republic](https://fonter.am/fonts/download/braind-republic)
+17. [Braind Gyumri](https://fonter.am/fonts/download/braind-gyumri)
 https://fonter.am/en/fonts?category%5B0%5D=1
