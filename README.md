@@ -11,3 +11,8 @@
 9. Kelvinch
 10. Hindsight-Unicode
 11. GHEA Mariam
+12. Quivira
+13. Optima Modoki
+14. Galiver Sans
+15. Galiver Sans obliques
+16. Nikkyou Sans

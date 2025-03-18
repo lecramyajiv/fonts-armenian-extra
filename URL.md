@@ -8,5 +8,9 @@
 8. [Hindsight-unicode](https://fonter.am/fonts/download/hindsight-unicode)
 9. [GHEA Mariam](https://fonter.am/fonts/download/ghea-mariam)
 10. [Quivira](https://fonter.am/fonts/download/quivira)
+11. [Optima Modoki](https://fonter.am/fonts/download/optimamodoki)
+12. [Galiver Sans](https://fonter.am/fonts/download/galiver-sans)
+13. [Galiver Sans Obliques](https://fonter.am/fonts/download/galiver-sans-obliques)
+14. [NikkyouSans](https://fonter.am/fonts/download/nikkyou-sans)
 
 https://fonter.am/en/fonts?category%5B0%5D=1
