@@ -17,4 +17,11 @@
 17. [Braind Gyumri](https://fonter.am/fonts/download/braind-gyumri)
 18. [Ghea Grapalat](https://fonter.am/fonts/download/ghea-grapalat)
 19. [Bainsley](https://fonter.am/fonts/download/bainsley)
+20. [Yeravanyan](https://armenia.renderforest.com/download-fonts/yerevanyan.zip)
+21. [Bokonique](https://armenia.renderforest.com/download-fonts/bokonique.zip)
+22. [Nicolo](https://armenia.renderforest.com/download-fonts/nicolo.zip)
+23. [Nortar](https://armenia.renderforest.com/download-fonts/nortar.zip)
+24. [Grqalir](https://armenia.renderforest.com/download-fonts/grqalir.zip)
+25. [Mardato](https://github.com/vahanhovh/mardoto/archive/refs/heads/master.zip)
+26. [Montserrat-arm](https://github.com/vahanhovh/montserrat-arm/archive/refs/heads/master.zip)
 https://fonter.am/en/fonts?category%5B0%5D=1
