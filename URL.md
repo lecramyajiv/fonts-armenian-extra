@@ -24,4 +24,8 @@
 24. [Grqalir](https://armenia.renderforest.com/download-fonts/grqalir.zip)
 25. [Mardato](https://github.com/vahanhovh/mardoto/archive/refs/heads/master.zip)
 26. [Montserrat-arm](https://github.com/vahanhovh/montserrat-arm/archive/refs/heads/master.zip)
+27. [Gaa Gayane](https://fonter.am/fonts/download/gaa-gayane)
+28. [Old Timer](https://fonter.am/fonts/download/oldtimer)
+29. [Calama Condensed](https://fonter.am/fonts/download/calama-condensed)
+30. [Arian AMU Mono](https://fonter.am/fonts/download/arian-amu-mono)
 https://fonter.am/en/fonts?category%5B0%5D=1

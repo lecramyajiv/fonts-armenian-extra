@@ -27,3 +27,8 @@
 25. Nortar
 26. Grqalir
 27. Mardato
+28. Montesserat-arm
+29. GAA Gayane
+30. Old Timer
+31. Calama Condensed
+32. Arian AMU Mono
