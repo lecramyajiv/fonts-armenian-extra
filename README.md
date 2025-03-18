@@ -21,3 +21,8 @@
 19. Braind Gyumri
 20. GHEA Grapalat
 21. Bainsley
+22. Yeravanyan
+23. Bokonique
+24. Nicolo
+25. Nortar
+26. Grqalir
