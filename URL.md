@@ -15,4 +15,5 @@
 15. [Braind Yeravan](https://fonter.am/fonts/download/braind-yerevan)
 16. [Braind Republic](https://fonter.am/fonts/download/braind-republic)
 17. [Braind Gyumri](https://fonter.am/fonts/download/braind-gyumri)
+18. [Ghea Grapalat](https://fonter.am/fonts/download/ghea-grapalat)
 https://fonter.am/en/fonts?category%5B0%5D=1

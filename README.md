@@ -19,3 +19,4 @@
 17. Braind Yeravan
 18. Braind Republic
 19. Braind Gyumri
+20. GHEA Grapalat
