@@ -16,4 +16,5 @@
 16. [Braind Republic](https://fonter.am/fonts/download/braind-republic)
 17. [Braind Gyumri](https://fonter.am/fonts/download/braind-gyumri)
 18. [Ghea Grapalat](https://fonter.am/fonts/download/ghea-grapalat)
+19. [Bainsley](https://fonter.am/fonts/download/bainsley)
 https://fonter.am/en/fonts?category%5B0%5D=1
