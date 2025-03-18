@@ -15,3 +15,21 @@
 Տառատեսակների օգտագործման հետ կապված եւ սույն թույլտվության շրջանակներում չպարզաբանված կամ օգտագործման հնարավոր այլ եղանակների թույլտվության հետ կապված հարցերը պետք է համաձայնեցվեն Ռուբեն Հակոբյանի (Թարումյանի) հետ։ Լրացուցիչ տեղեկության համար կարող եք Ձեր նամակները ուղարկել post@tarumian.am էլ.- հասցեով։
 
 Պատճենաշնորհ (c) 1998—2011 Ռուբեն Հակոբյան (Թարումյան)։
+
+Permission
+
+This permission grants anyone the right to obtain (download) and use the "Arian AMYU" fonts (hereinafter referred to as the "Fonts") free of charge. Anyone may copy, use and distribute them worldwide without any restrictions, subject to the following conditions:
+
+1. This permission must be included with each copy (even a single image file) distributed,
+
+2. The font may be modified or supplemented with additional characters, but the names of the modified fonts may not contain the words "Arian", "AMYU", "Tarumyan", whether written in Latin, Armenian or any other writing system,
+
+3. In case of distribution or use of the modified fonts, a note must be attached stating that they were created as a result of the modification of the "Arian AMYU" font,
+
+4. The fonts or samples created as a result of their modification may not be the subject of sale, but may be sold as a component part of any other software package, if the latter represents a product of another (non-font) nature.
+
+THE FONT TYPES ARE PROVIDED "AS IS", WITHOUT ANY TYPE OF WARRANTY. RUBEN HAKOBYAN (TARUMYAN) IS IN NO EVENT LIABLE FOR ANY DAMAGES, INCLUDING INDIRECT OR CONSEQUENTIAL, THAT MAY BE INCURRED BY ANY USER IN CONNECTION WITH THE USE OR INABILITY TO USE THE TYPES OR OTHER TRANSACTIONS (ACTS) RELATED TO THEM.
+
+Issues related to the use of the fonts and the permission of other possible methods of use not specified within the framework of this license must be agreed with Ruben Hakobyan (Tarumyan). For additional information, you can send your letters to post@tarumian.am.
+
+Copyright (c) 1998—2011 Ruben Hakobyan (Tarumyan).All rights reserved.
