@@ -28,4 +28,6 @@
 28. [Old Timer](https://fonter.am/fonts/download/oldtimer)
 29. [Calama Condensed](https://fonter.am/fonts/download/calama-condensed)
 30. [Arian AMU Mono](https://fonter.am/fonts/download/arian-amu-mono)
-https://fonter.am/en/fonts?category%5B0%5D=1
+31. [Rursus Compact Mono](https://fonter.am/fonts/download/rursus-compact-mono)
+32. [Catrinity](https://catrinity-font.de/downloads/Catrinity.otf)
+33. [Kurland](https://fonter.am/fonts/download/kurland)

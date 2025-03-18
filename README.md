@@ -32,3 +32,6 @@
 30. Old Timer
 31. Calama Condensed
 32. Arian AMU Mono
+33. Rursus Compact Mono
+34. Catrinity
+35. Kurland
