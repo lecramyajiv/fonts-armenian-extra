@@ -35,3 +35,4 @@
 35. [ARM Hmk's Bebas Neue](https://fonter.am/en/fonts/arm-hmks-bebas-neue)
 36. [Arti](https://fonter.am/en/fonts/arti)
 37. [ARM Hmk's light](https://fonter.am/en/fonts/arm-hmks-light)
+38. [Atyan Dsegh](https://fonter.am/fonts/download/atyan-dsegh)

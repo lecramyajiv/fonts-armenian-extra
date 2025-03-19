@@ -41,7 +41,8 @@ The following fonts are Freeware:
 15. Nikkyou Sans
 16. GAA Gayane
 17. Calama Condensed
-18. Titus CyberBit Basic
-19. ARM Hmk's Bebas Neue
-20. Arti
-21. ARM Hmk's light
+18. ARM Hmk's Bebas Neue
+19. Arti
+20. ARM Hmk's light
+21. Titus Cyberbit Basic
+
