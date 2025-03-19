@@ -1,7 +1,7 @@
 # fonts-armenian-extra
 
-Armenian is spoken in the Republic of Armenia and its
-official language.
+Armenian is the official language and is
+spoken in the Republic of Armenia.
 
 The following fonts are under Open Source License:
 1. Artsounk
@@ -45,4 +45,5 @@ The following fonts are Freeware:
 19. Arti
 20. ARM Hmk's light
 21. Titus Cyberbit Basic
+22. Atyan Dsegh
 
