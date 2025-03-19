@@ -31,3 +31,7 @@
 31. [Rursus Compact Mono](https://fonter.am/fonts/download/rursus-compact-mono)
 32. [Catrinity](https://catrinity-font.de/downloads/Catrinity.otf)
 33. [Kurland](https://fonter.am/fonts/download/kurland)
+34. [Titus Cyberbit Basic](https://fonter.am/fonts/download/titus-cyberbit-basic)
+35. [ARM Hmk's Bebas Neue](https://fonter.am/en/fonts/arm-hmks-bebas-neue)
+36. [Arti](https://fonter.am/en/fonts/arti)
+37. [ARM Hmk's light](https://fonter.am/en/fonts/arm-hmks-light)
