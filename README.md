@@ -42,3 +42,5 @@ The following fonts are Freeware:
 16. GAA Gayane
 17. Calama Condensed
 18. Titus CyberBit Basic
+19. ARM Hmk's Bebas Neue
+20. Arti
