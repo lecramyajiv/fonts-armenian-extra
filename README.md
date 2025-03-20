@@ -4,24 +4,21 @@ Armenian is the official language and is
 spoken in the Republic of Armenia.
 
 The following fonts are under Open Source License:
-1. Artsounk
-2. OpenGOST
-3. Handjet
-4. Arian AMU
-5. Arian AMU Serif
-6. Arian AMU Grqi
-7. Kelvinch
-8. Quivira
-9. GHEA Mariam
-10. GHEA Grapalat
-11. Bainsley
-12. Montesserat-arm
-13. Mardato
-14. Arian AMU Mono
-15. Old Timer
-16. Kurland
-17. Catrinity
-18. Rursus Compact Mono
+1. OpenGOST
+2. Handjet
+3. Arian AMU
+4. Arian AMU Serif
+5. Arian AMU Grqi
+6. Arian AMU Mono
+7. Quivira
+8. Kelvinch
+9. Bainsley
+10. Montesserat-arm
+11. Mardato
+12. Old Timer
+13. Kurland
+14. Catrinity
+15. Rursus Compact Mono
 
 The following fonts are Freeware:
 1. Braind Amanor
@@ -44,6 +41,11 @@ The following fonts are Freeware:
 18. ARM Hmk's Bebas Neue
 19. Arti
 20. ARM Hmk's light
-21. Titus Cyberbit Basic
-22. Atyan Dsegh
+21. Atyan Dsegh
+22. GHEA Mariam
+23. GHEA Grapalat
+24. Artsounk
 
+The following font is free for personal and
+non commercial use only:
+1. Titus Cyberbit Basic
